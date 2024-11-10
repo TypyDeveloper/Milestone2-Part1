@@ -1,0 +1,51 @@
+.contact-parent{
+    width: 100%;
+    height: 550px;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact-main{
+    width: 90%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: aqua; */
+}
+.contact-form{
+    width: 80%;
+    height: 430px;
+    margin: 10px;
+    padding: 10px;
+    /* background-color: green; */
+    border-radius: 9px;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+.contact-icon{
+    font-size: 40px;
+}
+.contact-input{
+    padding: 10px;
+    margin: 5px;
+    height: 10px;
+    width: 200px;
+    border:none
+}
+.contact-btn{
+    padding: 5px;
+    margin: 5px;
+    height: 35px;
+    width: 220px;
+    border-radius: 10px;
+    background-color: rgb(1, 1, 20);
+    color: white;
+}
+.contact-h1{
+    
+    margin-bottom: 20px;
+
+}
